@@ -1,0 +1,68 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    width: 594px;
+    margin: 20px 419px
+}
+.container{
+    /* border: 2px solid palegreen; */
+    padding: 40px;
+}
+.tpp{
+    width: 100px;
+    margin: -1px 120px;
+    
+}
+.para12{
+   margin-left: 80px;
+}
+#tpp{
+    width: 47.9%;
+    margin-top: -50px;
+    margin-left: 250px;
+    height: 100px;
+}
+.tpp2{
+    width: 100px;
+    margin: 0px 84px;
+}
+.tpp1{
+    margin: 15px -29px;
+    width: 685px;
+    height: 37px;
+}
+.button-submit{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: none;
+    width: 100px;
+    margin: 21px 60px;
+}
+.button-clear{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: none;
+    width: 100px;
+    margin: 21px 24px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
